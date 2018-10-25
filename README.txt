@@ -11,3 +11,5 @@ Sentiment Analysis of the tweets - sentiment_analysis.ipynb
 Some basic insights that we extracted from the data - data_analytics.ipynb
 
 *Please update your API keys before running the code in credentials/twython_credentials.json
+
+For this academic project, I used the keywords 'bitcoin' and 'ethereum'.
